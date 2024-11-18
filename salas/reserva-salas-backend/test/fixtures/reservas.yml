@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: 2024-11-04
+  hora: 2024-11-04 10:08:01
+  usuario: one
+
+two:
+  data: 2024-11-04
+  hora: 2024-11-04 10:08:01
+  usuario: two
